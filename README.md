@@ -3,4 +3,4 @@
 * Performing OLAP queries for data analysis on the built DW
 
 
-Steps to execute this project is written on readme.txt. Kindly go through it. Thanks!
+**Steps to execute this project is written on readme.txt. Kindly go through it. Thanks!**
